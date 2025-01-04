@@ -1,1 +1,1 @@
-{"ROOT":{"id":"ROOT","isCollapsed":false,"isMenuOpen":false,"successors":["1735985417364"],"text":"New Ontology"},"1735985417364":{"id":"1735985417364","isCollapsed":false,"isMenuOpen":false,"successors":[],"text":"This is a cool test!"}}
+{"ROOT":{"id":"ROOT","isCollapsed":true,"isMenuOpen":false,"successors":["1735985417364"],"text":"New Ontology"},"1735985417364":{"id":"1735985417364","isCollapsed":false,"isMenuOpen":false,"successors":[],"text":"This is a cool test!"}}
